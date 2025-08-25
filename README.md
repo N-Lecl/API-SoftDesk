@@ -51,7 +51,7 @@ A Django REST Framework API for collaborative project management and issue track
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd API-SoftDesk
+cd P9-API-SoftDesk
 ```
 
 2. **Install dependencies**
