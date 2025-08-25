@@ -2,7 +2,7 @@
 name = "softdesk"
 version = "0.1.0"
 description = ""
-authors = ["muumz <useless.muumz@gmail.com>"]
+authors = ["nLecl <N.Leclercq62@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
